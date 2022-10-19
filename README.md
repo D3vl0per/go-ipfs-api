@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](https://ipfs.io/)
 [![](https://img.shields.io/badge/matrix-%23ipfs-blue.svg?style=flat-square)](https://app.element.io/#/room/#ipfs:matrix.org)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![GoDoc](https://godoc.org/github.com/ipfs/go-ipfs-api?status.svg)](https://godoc.org/github.com/ipfs/go-ipfs-api)
+[![GoDoc](https://godoc.org/github.com/D3vl0per/go-ipfs-api?status.svg)](https://godoc.org/github.com/ipfs/go-ipfs-api)
 [![Build Status](https://travis-ci.org/ipfs/go-ipfs-api.svg)](https://travis-ci.org/ipfs/go-ipfs-api) 
 
 ![](https://camo.githubusercontent.com/651f7045071c78042fec7f5b9f015e12589af6d5/68747470733a2f2f697066732e696f2f697066732f516d514a363850464d4464417367435a76413155567a7a6e3138617356636637485676434467706a695343417365)
