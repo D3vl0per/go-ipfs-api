@@ -35,6 +35,7 @@ const (
 type Shell struct {
 	url     string
 	httpcli gohttp.Client
+	headers  map[string]string
 }
 
 func NewLocalShell() *Shell {
@@ -130,6 +131,7 @@ func (s *Shell) Request(command string, args ...string) *RequestBuilder {
 		command: command,
 		args:    args,
 		shell:   s,
+		headers: s.headers,
 	}
 }
 
